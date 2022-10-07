@@ -1,7 +1,7 @@
 <h2>H e l l o !</h2>
 <h3 align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I'm+Ashraful+islam+|+Web+Developer" /> </h3>
 
-- Learning Never Stops 🚀
+- Learning Never Stops
 
 - Ask me about **Web Development**
 
